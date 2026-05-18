@@ -3,8 +3,10 @@
 Real-time emotion recognition from live webcam and microphone using EfficientNet-B0 (face) and Bidirectional LSTM (audio) with feature-level fusion.
 
 ## Authors
-CMR Institute of Technology, Bengaluru -
+CMR Institute of Technology, Bengaluru 
+
 [Allie Thakur], [Kenesha Watt Q], [Syed Anshu], [Dileep M N]
+
 Guide: [Ms. Sandhya Kumari]
 
 ## Run the App
